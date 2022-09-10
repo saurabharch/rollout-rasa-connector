@@ -1,0 +1,41 @@
+{
+  "name": "@saurabharch/rollout-rasa-connector",
+  "version": "1.0.10",
+  "description": "Rollout RASA connector",
+  "engines": {
+    "node": ">=12.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabharch/rollout-rasa-connector.git"
+  },
+  "author": "Saurabh Kashyap - <saurabh@raindigi.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saurabharch/rollout-rasa-connector/issues"
+  },
+  "homepage": "https://github.com/saurabharch/rollout-rasa-connector#readme",
+  "dependencies": {
+    "@saurabharch/rollout-chatbot-client": "^0.5.31",
+    "@saurabharch/rollout-chatbot-plugs": "^0.0.1",
+    "@saurabharch/rollout-chatbot-util": "^0.8.37",
+    "@saurabharch/rollout-kvbasemongo": "^1.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.6.0",
+    "express": "^4.18.1",
+    "formidable": "^1.2.6",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.7.3",
+    "multer": "^1.4.4",
+    "mysql": "^2.18.1",
+    "redis": "^3.1.2",
+    "request": "^2.88.2",
+    "uuid": "^3.4.0"
+  }
+}
