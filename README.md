@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/%saurabharch%2Frollout-rasa-connector.svg)](https://badge.fury.io/js/%saurabharch%2Frollout-rasa-connector)
+[![npm version](https://badge.fury.io/js/%40saurabharch%2Frollout-rasa-connector.svg)](https://badge.fury.io/js/%40saurabharch%2Frollout-rasa-connector)
 
 # RASA Rollout Connector
 A RASA Service Connector (Rollout External Bot) to directly connect Rollout with RASA Server.
